@@ -6,7 +6,7 @@
 🔗 **LinkedIn:** [linkedin.com/in/lazydev](https://linkedin.com/in/lazydev)
 
 ### 🚀 About Me
-Experienced software developer with 4 years of expertise in full-stack development and mobile applications. Proficient in Swift, Vue.js, TypeScript, Node.js, React.js, and Scala, specializing in creating scalable solutions.
+Experienced software developer with 6 years of expertise in full-stack development and mobile applications. Proficient in Swift, Kotlin, Vue.js, TypeScript, Node.js, React.js, and Scala, specializing in creating scalable solutions.
 
 ### 🛠️ Technologies & Skills
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
